@@ -1,0 +1,1 @@
+{"name":"repairOrderID","identifier":"R6Z2JT1Y9H","description":null,"slotTypeValues":[{"synonyms":null,"sampleValue":{"value":"RO1234567"}},{"synonyms":null,"sampleValue":{"value":"RO4567890"}},{"synonyms":null,"sampleValue":{"value":"RO2345678"}}],"parentSlotTypeSignature":null,"valueSelectionSetting":{"regexFilter":null,"resolutionStrategy":"ORIGINAL_VALUE"}}

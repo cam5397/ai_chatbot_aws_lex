@@ -1,0 +1,1 @@
+{"name":"appointmentId","identifier":"4MOAG1PM5A","description":null,"slotTypeValues":[{"synonyms":null,"sampleValue":{"value":"APPT12345"}},{"synonyms":null,"sampleValue":{"value":"APPT654321"}}],"parentSlotTypeSignature":null,"valueSelectionSetting":{"regexFilter":null,"resolutionStrategy":"ORIGINAL_VALUE"}}

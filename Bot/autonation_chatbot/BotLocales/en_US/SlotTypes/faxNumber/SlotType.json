@@ -1,0 +1,1 @@
+{"name":"faxNumber","identifier":"KUMDR2SAS4","description":null,"slotTypeValues":[{"synonyms":null,"sampleValue":{"value":"(425)-462-0460"}}],"parentSlotTypeSignature":null,"valueSelectionSetting":{"regexFilter":null,"resolutionStrategy":"ORIGINAL_VALUE"}}

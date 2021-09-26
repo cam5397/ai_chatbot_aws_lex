@@ -1,0 +1,1 @@
+{"name":"servicePhoneNumber","identifier":"MXVCOCL16W","description":null,"slotTypeValues":[{"synonyms":null,"sampleValue":{"value":"(425)-900-5010"}}],"parentSlotTypeSignature":null,"valueSelectionSetting":{"regexFilter":null,"resolutionStrategy":"ORIGINAL_VALUE"}}

@@ -1,0 +1,1 @@
+{"name":"Address","identifier":"SSMZOIS1DO","description":null,"slotTypeValues":[{"synonyms":null,"sampleValue":{"value":"120 116th Avenue NE, Bellevue, FL 98004"}},{"synonyms":null,"sampleValue":{"value":"located"}}],"parentSlotTypeSignature":null,"valueSelectionSetting":{"regexFilter":null,"resolutionStrategy":"ORIGINAL_VALUE"}}
